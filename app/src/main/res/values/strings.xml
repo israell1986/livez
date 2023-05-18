@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Livez</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="search_fragment_label">Search Fragment</string>
+    <string name="result_fragment_label">Result Fragment</string>
+</resources>
